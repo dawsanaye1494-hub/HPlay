@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">H Play</string>
+    <string name="app_subtitle">Automotive Wireless CarPlay &amp; CAN Hub</string>
+    <string name="status_ready">Ready for Connection</string>
+    <string name="status_connecting">Connecting CarPlay…</string>
+    <string name="status_connected">CarPlay Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+</resources>

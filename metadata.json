@@ -1,0 +1,6 @@
+{
+  "name": "H Play",
+  "description": "Wireless CarPlay receiver and automotive CAN bus dashboard for GAC Hycan Z03 and Android 8.1 head units",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
